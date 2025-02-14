@@ -3,6 +3,15 @@
 ### Overview
 This repository contains an **NLP-based analysis** of **President Donald J. Trump's second-term speeches** using **NLTK, Scikit-Learn, and BERT Transformers**. The project aims to extract key linguistic patterns, topic distributions, sentiment analysis, and named entity recognition from his speeches.
 
+### The source of the Data
+The source of the speeches was 'The American Presidency Project' maintained by the University of Santa Barbara. The speeches and addresses used were of the following categories:
+1. Interviews
+2. News Conferences
+3. Spoken Addresses and Remarks
+4. Farewell Addresses
+5. Inaugural Addresses
+   The pool reports were not included as they are mediated via reportage.
+
 ### 🔍 Objectives of the Analysis
 - **Sentiment Analysis** using **BERT Transformer Model**
 - **N-gram Analysis** (Bigrams & Quadgrams)
