@@ -29,6 +29,7 @@ The source of the speeches was 'The American Presidency Project' maintained by t
 ![BERT Sentiment Analysis](https://github.com/SYEDFAIZAN1987/Trump-Second-Term-Speeches-NLP-Analysis/blob/main/BERTpic.png)
 
 - Majority of the sentences in the speeches have **positive sentiment**, with a significant number of **negative** statements as well.
+- Sentiment Distribution: 'Positive sentences': 2921, 'Negative sentences': 1923, 'Neutral': 0
 
 ### 2️⃣ Bigrams Analysis
 ![Bigrams](https://github.com/SYEDFAIZAN1987/Trump-Second-Term-Speeches-NLP-Analysis/blob/main/Bigrams.png)
@@ -43,17 +44,18 @@ The source of the speeches was 'The American Presidency Project' maintained by t
 ### 4️⃣ Quadgrams Analysis
 ![Quadgrams](https://github.com/SYEDFAIZAN1987/Trump-Second-Term-Speeches-NLP-Analysis/blob/main/Quadgrams.png)
 
-- Four-word phrases reveal structured patterns in **policy discussions and rally rhetoric**.
+- Four-word phrases reveal structured patterns in **policy discussions and rally rhetoric**. The motto of the Trump campaigh 'Make America Great again', as expected is represented as the most frequent quadgram.
 
 ### 5️⃣ Speech Engagement: Applause & Laughter
 ![Applause & Laughter](https://github.com/SYEDFAIZAN1987/Trump-Second-Term-Speeches-NLP-Analysis/blob/main/applause.png)
 
 - Shows where audience **engagement is highest**, analyzing **"applause" and "laughter" frequency**.
+- Total words spoken in official speeches since inauguration were 23981: Interrupted by applause every 147 words and by laughter every 184 words
 
 ### 6️⃣ Most Frequently Mentioned Cabinet Members
 ![Cabinet Mentions](https://github.com/SYEDFAIZAN1987/Trump-Second-Term-Speeches-NLP-Analysis/blob/main/cabinet.png)
 
-- Highlights **Trump's second-term cabinet picks** with highest mentions.
+- Highlights **Trump's second-term cabinet picks** with highest mentions. Elon Musk is mentioned most.
 
 ### 7️⃣ Most Frequently Mentioned Countries
 ![Countries Mentioned](https://github.com/SYEDFAIZAN1987/Trump-Second-Term-Speeches-NLP-Analysis/blob/main/countries.png)
@@ -69,6 +71,7 @@ The source of the speeches was 'The American Presidency Project' maintained by t
 ![Immigration Word Cloud](https://github.com/SYEDFAIZAN1987/Trump-Second-Term-Speeches-NLP-Analysis/blob/main/immigrationrefined.png)
 
 - Frequent words include **"border, southern, invasion, security, wall"**, indicating major speech themes.
+- Remarkable that the word 'immigrant' makes no apprearence in any speech,whereas 'illegal', 'alien' and 'immigration' are found.
 
 ### 🔟 Most Frequent Nouns Used
 ![Nouns Analysis](https://github.com/SYEDFAIZAN1987/Trump-Second-Term-Speeches-NLP-Analysis/blob/main/nouns.png)
