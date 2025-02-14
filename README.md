@@ -106,7 +106,7 @@ This repository contains an **NLP-based analysis** of **President Donald J. Trum
 ## 📬 Contact
 For any questions or collaborations, feel free to reach out:
 - **Author:** Syed Faizan
-- **Email:** [Your Email Here]
+- **Email:** faizan.s@northeastern.edu
 - **GitHub:** [SYEDFAIZAN1987](https://github.com/SYEDFAIZAN1987)
 
 ---
